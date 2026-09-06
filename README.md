@@ -152,15 +152,8 @@ Blade                    1 repo              █░░░░░░░░░░�
  Last Updated on 06/09/2026 10:43:30 UTC
 <!--END_SECTION:waka-->
 
----
 
-### 🎵 Currently Listening To
 
-<p align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify-compiler?type=card&theme=tokyonight&bar_color=38bdf8" alt="Spotify Now Playing" />
-  </a>
-</p>
 
 ---
 
@@ -194,19 +187,6 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 ---
 
-### ♟️ Play Chess With Me
-
-<p align="center">
-  <!-- START CHESS BOARD -->
-  <a href="https://github.com/RenceSamontanez/RenceSamontanez/issues/new?title=chess%7Cmove%7Ce2e4">
-    <img src="https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/master/chess-board.svg" alt="Interactive Chess Board" />
-  </a>
-  <!-- END CHESS BOARD -->
-  <br />
-  <i>Click on any piece or square link in repository issues to submit your move!</i>
-</p>
-
----
 
 ### 📫 Connect With Me
 
