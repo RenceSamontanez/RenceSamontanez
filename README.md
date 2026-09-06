@@ -35,6 +35,16 @@
 
 ---
 
+### 🏆 Trophies & Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RenceSamontanez&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
@@ -64,16 +74,63 @@
   <img src="https://streak-stats.demolab.com/?user=RenceSamontanez&theme=tokyonight&hide_border=true&background=030712&ring=0284c7&fire=38bdf8" alt="GitHub Streak" />
 </p>
 
+<!-- Live WakaTime Coding Productivity -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RenceSamontanez&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38bdf8" alt="WakaTime Stats" />
+</p>
+
 ---
 
-### 🎮 Contribution Snake
+### 🎵 Currently Listening To
 
+<p align="center">
+  <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify-compiler?type=card&theme=tokyonight&bar_color=38bdf8" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+### 🌱 Visual Activity & 3D Skyline
+
+<!-- 3D Contribution City View -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" />
+</p>
+
+<br />
+
+<!-- Contribution Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/output/github-snake.svg">
     <img alt="github snake animation" src="https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/output/github-snake-dark.svg">
   </picture>
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+* 🚀 Pushed new updates to `SoloXPortfolio`
+* 📌 Starred a repository
+* 🔀 Merged pull request in `TaskFlow-App`
+<!--END_SECTION:activity-->
+
+---
+
+### ♟️ Play Chess With Me
+
+<p align="center">
+  <!-- START CHESS BOARD -->
+  <a href="https://github.com/RenceSamontanez/RenceSamontanez/issues/new?title=chess%7Cmove%7Ce2e4">
+    <img src="https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/master/chess-board.svg" alt="Interactive Chess Board" />
+  </a>
+  <!-- END CHESS BOARD -->
+  <br />
+  <i>Click on any piece or square link in repository issues to submit your move!</i>
 </p>
 
 ---
