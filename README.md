@@ -123,13 +123,18 @@
   <table>
     <tr>
       <td align="center" width="240">
-        <img src="profile.png" width="200" alt="Rence Pacifico Samontanez" />
+        <img src="Github.jfif" width="200" alt="Rence Pacifico Samontanez" />
       </td>
       <td valign="middle">
-        <h2>⚡ SoloX // Rence Pacifico Samontanez</h2>
-        <p><b>Status:</b> Available for full-stack engineering & freelance projects.</p>
-        <p>Delivering high-performance Web Apps, Mobile Systems, AI Integrations, and Custom Backend Architectures.</p>
-        <p><i>"Crafting seamless digital experiences from idea to deployment."</i></p>
+      <h2>Mi vida</h2>
+<p>
+  Wherever life takes us, you are the person I want to come home to.
+  Through every chapter, every change, every quiet night and every difficult day,
+  I want to have you by my side. You are the person I want to laugh with,
+  grow with, dream with, and build a life with. No matter where life leads us,
+  my heart will always find its way back to you. You are not just someone I love;
+  you are my favorite person, my safe place, and the home I choose every day.
+</p>
       </td>
     </tr>
   </table>
