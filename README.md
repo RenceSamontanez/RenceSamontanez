@@ -75,6 +75,83 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 154.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 130 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+🌆 Daytime                58 commits          ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌃 Evening                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+🌙 Night                  87 commits          ███████████░░░░░░░░░░░░░░   43.28 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Friday                   86 commits          ███████████░░░░░░░░░░░░░░   42.79 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Sunday                   49 commits          ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in CSS** 
+
+```text
+CSS                      6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/09/2026 10:43:30 UTC
 <!--END_SECTION:waka-->
 
 ---
