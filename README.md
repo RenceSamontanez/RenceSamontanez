@@ -1,31 +1,35 @@
-<!-- Deep Dark & Aurora Glow Landing Banner -->
+<!-- Deep Dark Blue & Aurora Light Blue Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a1b26,1f2335,3d59a1,7aa2f7,bb9af7,7dcfff&height=260&section=header&text=Rence%20Pacifico%20Samontanez&fontSize=40&fontColor=ffffff&animation=twinkling&desc=SoloX&descSize=22&descAlign=50&descAlignY=70" width="100%" alt="Rence Pacifico Samontanez Header" />
+  <!-- Option 1: Animated Aurora Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=030712,0f172a,1e3a8a,0369a1,0284c7,38bdf8,7dd3fc&height=240&section=header&text=Rence%20Pacifico%20Samontanez&fontSize=38&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=SoloX&descSize=20&descAlign=50&descAlignY=68" width="100%" alt="Header Banner" />
 
-  <br />
+  <!-- Note: If you want to use a uploaded background image file (e.g. banner.jpg) instead, replace the <img> tag above with:
+  <img src="banner.jpg" width="100%" alt="Header Banner" />
+  -->
 
-  <!-- Animated SoloX Brand Typography -->
+  <br /><br />
+
+  <!-- Fast Typewriter Animated SVG -->
   <a href="https://github.com/RenceSamontanez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=650&lines=%E2%9C%A8+SoloX+%7C+Rence+Pacifico+Samontanez;%F0%9F%9A%80+Frontend+%26+Full-Stack+Architect;%F0%9F%92%A1+Building+Modern%2C+High-Performance+UIs" alt="SoloX Branding" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&duration=1800&pause=400&color=38BDF8&center=true&vcenter=true&width=650&lines=%3E_System.init(%22SoloX%22)%3B;%3E_Full-Stack+%26+System+Architect;%3E_Building+High-Performance+Digital+Experiences;%3E_Engineered+for+speed%2C+crafted+for+aesthetics." alt="Typewriter Typing SVG" />
   </a>
 
   <br /><br />
 
   <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=RenceSamontanez&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RenceSamontanez&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
 
 ---
 
-<!-- Brand Showcase & Photo Placeholder Section -->
+<!-- Top Brand Showcase Section -->
 <div align="center">
   <table>
     <tr>
       <td align="center" width="240">
-        <!-- PHOTO PLACEHOLDER: Replace the URL in src with your direct photo link -->
-        <img src="Github.jfif" width="200" alt="Rence Pacifico Samontanez Photo Placeholder" />
+        <img src="profile.png" width="200" alt="Rence Pacifico Samontanez" />
       </td>
       <td valign="middle">
         <h2>⚡ Brand: SoloX</h2>
@@ -36,8 +40,6 @@
     </tr>
   </table>
 </div>
-
----
 
 ---
 
@@ -55,19 +57,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&icon_color=7dcfff&bg_color=0d1117">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=7dd3fc&bg_color=030712">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=030712" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&langs_count=6&bg_color=0d1117">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&langs_count=6&bg_color=030712">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=default&hide_border=true&langs_count=6">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RenceSamontanez&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=7dcfff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RenceSamontanez&theme=tokyonight&hide_border=true&background=030712&ring=0284c7&fire=38bdf8" alt="GitHub Streak" />
 </p>
 
 ---
@@ -88,7 +90,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rensuru" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/SamontanezRence" target="_blank">
     <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
@@ -100,13 +102,35 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://t.me/SoloXRence" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://wa.me/639451031206?text=Hi%21%20I%20want%20to%20inquire" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
+<!-- Dark Blue / Light Blue Watercolor Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1a1b26,3d59a1,7aa2f7&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,0f172a,1e3a8a,0284c7,38bdf8,7dd3fc&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
+
+<br />
+
+---
+
+<!-- Bottom Signature Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="240">
+        <img src="profile.png" width="200" alt="Rence Pacifico Samontanez" />
+      </td>
+      <td valign="middle">
+        <h2>⚡ SoloX // Rence Pacifico Samontanez</h2>
+        <p><b>Status:</b> Available for full-stack engineering & freelance projects.</p>
+        <p>Delivering high-performance Web Apps, Mobile Systems, AI Integrations, and Custom Backend Architectures.</p>
+        <p><i>"Crafting seamless digital experiences from idea to deployment."</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
