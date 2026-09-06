@@ -25,7 +25,7 @@
     <tr>
       <td align="center" width="240">
         <!-- PHOTO PLACEHOLDER: Replace the URL in src with your direct photo link -->
-        <img src="https://placehold.co/200x200/1a1b26/7aa2f7/png?text=SoloX+%2F+Your+Photo" width="200" alt="Rence Pacifico Samontanez Photo Placeholder" />
+        <img src="Github.jfif" width="200" alt="Rence Pacifico Samontanez Photo Placeholder" />
       </td>
       <td valign="middle">
         <h2>⚡ Brand: SoloX</h2>
