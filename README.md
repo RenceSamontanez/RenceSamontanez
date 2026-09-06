@@ -1,15 +1,22 @@
 <!-- Header Section: Centered Title, Brand, Typewriter & Custom Banner -->
 <div align="center">
 
-  <br /><br />
+  <br />
 
   <!-- Header Banner Image -->
   <img src="MP1.jpg" width="100%" alt="SoloX Background Banner" />
+
+  <br /><br />
+
   <h1>Rence Pacifico Samontanez</h1>
-  <h3>SoloX</h3>
+  <h3>Solo<span style="color: #3B82F6;">X</span></h3>
+
+  <p><i>Creating digital experiences that feel as intentional as they look.</i></p>
+
+  <br />
 
   <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=RenceSamontanez&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RenceSamontanez&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
@@ -24,10 +31,11 @@
         <img src="RENSUKOT.jpg" width="200" alt="Rence Pacifico Samontanez" />
       </td>
       <td valign="middle">
-        <h2>⚡ Brand: SoloX</h2>
+        <h2>⚡ Brand: Solo<span style="color: #3B82F6;">X</span></h2>
         <p><b>Creator:</b> Rence Pacifico Samontanez</p>
-        <p>Architecting digital experiences with a focus on deep dark aesthetic UIs, fluid animations, and scalable full-stack JavaScript/React applications.</p>
-        <p><i>"Engineered for speed, crafted for aesthetics."</i></p>
+        <p><b>Focus:</b> Full-Stack Developer, Problem Solver, and AI Integration Specialist.</p>
+        <p>Architecting digital experiences with a focus on deep dark aesthetic UIs, fluid animations, and scalable full-stack applications.</p>
+        <p><i>"Turning complexity into clarity."</i></p>
       </td>
     </tr>
   </table>
@@ -49,19 +57,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=7dd3fc&bg_color=030712">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=030712" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&icon_color=60a5fa&text_color=94a3b8&bg_color=090a0f">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&hide_border=true&count_private=true">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&icon_color=60a5fa&text_color=94a3b8&bg_color=090a0f" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&langs_count=6&bg_color=030712">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=default&hide_border=true&langs_count=6">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&hide_border=true&title_color=ffffff&text_color=94a3b8&langs_count=6&bg_color=090a0f">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&hide_border=true&langs_count=6">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&hide_border=true&title_color=ffffff&text_color=94a3b8&langs_count=6&bg_color=090a0f" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RenceSamontanez&theme=tokyonight&hide_border=true&background=030712&ring=0284c7&fire=38bdf8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RenceSamontanez&hide_border=true&background=090a0f&ring=3b82f6&fire=60a5fa&currStreakNum=ffffff&sidenums=94a3b8&sidelabels=94a3b8&dates=64748b" alt="GitHub Streak" />
 </p>
 
 ---
@@ -101,9 +109,9 @@
   </a>
 </p>
 
-<!-- Dark Blue / Light Blue Watercolor Gradient Banner -->
+<!-- Stealth Dark / Steel Blue Gradient Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,0f172a,1e3a8a,0284c7,38bdf8,7dd3fc&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=090a0f,0d0e12,111827,1e293b,3b82f6&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
 
 <br />
