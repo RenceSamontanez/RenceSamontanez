@@ -5,17 +5,9 @@
 
   <!-- Header Banner Image -->
   <img src="MP1.jpg" width="100%" alt="SoloX Background Banner" />
-
-  <br /><br />
-
- <!-- Name & Brand Heading -->
   <h1>Rence Pacifico Samontanez</h1>
-  <h3>⚡ Brand: SoloX</h3>
+  <h3>SoloX</h3>
 
-  <!-- Fast Typewriter Animated SVG -->
-  <a href="https://github.com/RenceSamontanez">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&duration=1800&pause=400&color=38BDF8&center=true&vcenter=true&width=650&lines=%3E_System.init(%22SoloX%22)%3B;%3E_Full-Stack+%26+System+Architect;%3E_Building+High-Performance+Digital+Experiences;%3E_Engineered+for+speed%2C+crafted+for+aesthetics." alt="Typewriter Typing SVG" />
-  </a>
     <br /><br />
   <!-- Profile Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=RenceSamontanez&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
