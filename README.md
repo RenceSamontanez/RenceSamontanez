@@ -1,18 +1,18 @@
-<!-- Header Section with Name, Brand, Typewriter & Header Image -->
+<!-- Header Section: Centered Title, Brand, Typewriter & Custom Banner -->
 <div align="center">
-  <!-- Name & Brand Title -->
+  <!-- Name & Brand Heading -->
   <h1>Rence Pacifico Samontanez</h1>
   <h3>⚡ Brand: SoloX</h3>
 
-  <!-- Fast Typewriter Animated SVG (Above Image) -->
+  <!-- Fast Typewriter Animated SVG -->
   <a href="https://github.com/RenceSamontanez">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&duration=1800&pause=400&color=38BDF8&center=true&vcenter=true&width=650&lines=%3E_System.init(%22SoloX%22)%3B;%3E_Full-Stack+%26+System+Architect;%3E_Building+High-Performance+Digital+Experiences;%3E_Engineered+for+speed%2C+crafted+for+aesthetics." alt="Typewriter Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Custom Header Banner Image -->
-  <img src="SoloX.jpg" width="100%" alt="Header Banner" />
+  <!-- Header Banner Image -->
+  <img src="SoloX.jpg" width="100%" alt="SoloX Background Banner" />
 
   <br /><br />
 
