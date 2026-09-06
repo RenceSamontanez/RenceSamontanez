@@ -74,10 +74,8 @@
   <img src="https://streak-stats.demolab.com/?user=RenceSamontanez&theme=tokyonight&hide_border=true&background=030712&ring=0284c7&fire=38bdf8" alt="GitHub Streak" />
 </p>
 
-<!-- Live WakaTime Coding Productivity -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RenceSamontanez&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38bdf8" alt="WakaTime Stats" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
