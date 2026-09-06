@@ -1,7 +1,7 @@
 <!-- Deep Dark Blue & Aurora Light Blue Header Banner -->
 <div align="center">
   <!-- Option 1: Animated Aurora Header Banner -->
-  <img src="" width="100%" alt="Header Banner" />
+  <img src="SoloX.jpg" width="100%" alt="Header Banner" />
 
   <!-- Note: If you want to use a uploaded background image file (e.g. banner.jpg) instead, replace the <img> tag above with:
   <img src="banner.jpg" width="100%" alt="Header Banner" />
