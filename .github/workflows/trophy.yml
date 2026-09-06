@@ -1,0 +1,24 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=RenceSamontanez&theme=tokyonight&column=6'
+          path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile trophies"
