@@ -29,7 +29,7 @@
   <table>
     <tr>
       <td align="center" width="240">
-        <img src="RENSUKOT.JPG" width="200" alt="Rence Pacifico Samontanez" />
+        <img src="RENSUKOT.jpg" width="200" alt="Rence Pacifico Samontanez" />
       </td>
       <td valign="middle">
         <h2>⚡ Brand: SoloX</h2>
