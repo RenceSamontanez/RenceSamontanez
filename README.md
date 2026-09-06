@@ -38,9 +38,7 @@
 ### 🏆 Trophies & Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RenceSamontanez&theme=tokyonight&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="./trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
