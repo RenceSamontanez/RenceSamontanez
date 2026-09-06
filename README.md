@@ -1,18 +1,18 @@
-<!-- Deep Dark Blue & Aurora Light Blue Header Banner -->
+<!-- Header Section with Name, Brand, Typewriter & Header Image -->
 <div align="center">
-  <!-- Option 1: Animated Aurora Header Banner -->
-  <img src="SoloX.jpg" width="100%" alt="Header Banner" />
+  <!-- Name & Brand Title -->
+  <h1>Rence Pacifico Samontanez</h1>
+  <h3>⚡ Brand: SoloX</h3>
 
-  <!-- Note: If you want to use a uploaded background image file (e.g. banner.jpg) instead, replace the <img> tag above with:
-  <img src="banner.jpg" width="100%" alt="Header Banner" />
-  -->
-
-  <br /><br />
-
-  <!-- Fast Typewriter Animated SVG -->
+  <!-- Fast Typewriter Animated SVG (Above Image) -->
   <a href="https://github.com/RenceSamontanez">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&duration=1800&pause=400&color=38BDF8&center=true&vcenter=true&width=650&lines=%3E_System.init(%22SoloX%22)%3B;%3E_Full-Stack+%26+System+Architect;%3E_Building+High-Performance+Digital+Experiences;%3E_Engineered+for+speed%2C+crafted+for+aesthetics." alt="Typewriter Typing SVG" />
   </a>
+
+  <br /><br />
+
+  <!-- Custom Header Banner Image -->
+  <img src="SoloX.jpg" width="100%" alt="Header Banner" />
 
   <br /><br />
 
@@ -126,15 +126,15 @@
         <img src="Github.jfif" width="200" alt="Rence Pacifico Samontanez" />
       </td>
       <td valign="middle">
-      <h2>Mi vida</h2>
-<p>
-  Wherever life takes us, you are the person I want to come home to.
-  Through every chapter, every change, every quiet night and every difficult day,
-  I want to have you by my side. You are the person I want to laugh with,
-  grow with, dream with, and build a life with. No matter where life leads us,
-  my heart will always find its way back to you. You are not just someone I love;
-  you are my favorite person, my safe place, and the home I choose every day.
-</p>
+        <h2>Mi vida</h2>
+        <p>
+          Wherever life takes us, you are the person I want to come home to.
+          Through every chapter, every change, every quiet night and every difficult day,
+          I want to have you by my side. You are the person I want to laugh with,
+          grow with, dream with, and build a life with. No matter where life leads us,
+          my heart will always find its way back to you. You are not just someone I love;
+          you are my favorite person, my safe place, and the home I choose every day.
+        </p>
       </td>
     </tr>
   </table>
