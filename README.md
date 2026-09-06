@@ -1,29 +1,30 @@
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Rence+Samontanez;Software+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=220&section=header&text=Rence%20Samontanez&fontSize=45&fontColor=1a1b26&animation=twinkling" width="100%" alt="Header Banner" />
+
+  <br />
+
+  <a href="https://github.com/RenceSamontanez">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vcenter=true&width=600&lines=%E2%9C%A8+Frontend+%26+JavaScript+Developer;%F0%9F%92%A1+Specialized+in+React+%26+Modern+UI%2FUX;%F0%9F%9A%80+Building+Scalable+Web+Applications" alt="Typing SVG" />
+  </a>
 </div>
 
-### 🚀 About Me
-- 🔭 I’m currently working on building modern web applications and projects.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and Python**.
-- ⚡ Fun fact: I love customizing dev environments and building clean UI experiences.
+<br />
 
 ---
 
-### ⚡ Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,git,github,vscode&theme=dark" alt="My Tech Stack" />
-  </a>
-</p>
+### 💫 About Me
 
----
-
-### 📊 GitHub Dashboard
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RenceSamontanez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenceSamontanez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RenceSamontanez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+```javascript
+const developer = {
+  name: "Rence Samontanez",
+  role: "Frontend / JavaScript Developer",
+  code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express"],
+    tools: ["Git", "VSCode", "Figma"]
+  },
+  currentFocus: "Building high-performance interactive web interfaces",
+  challenge: "Mastering full-stack JavaScript architectures"
+};
