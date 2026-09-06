@@ -1,7 +1,7 @@
 <!-- Deep Dark Blue & Aurora Light Blue Header Banner -->
 <div align="center">
   <!-- Option 1: Animated Aurora Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=030712,0f172a,1e3a8a,0369a1,0284c7,38bdf8,7dd3fc&height=240&section=header&text=Rence%20Pacifico%20Samontanez&fontSize=38&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=SoloX&descSize=20&descAlign=50&descAlignY=68" width="100%" alt="Header Banner" />
+  <img src="" width="100%" alt="Header Banner" />
 
   <!-- Note: If you want to use a uploaded background image file (e.g. banner.jpg) instead, replace the <img> tag above with:
   <img src="banner.jpg" width="100%" alt="Header Banner" />
