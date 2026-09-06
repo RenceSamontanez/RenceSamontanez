@@ -39,11 +39,13 @@
 
 ---
 
+---
+
 ### 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,python,git,github,vscode,figma,postman&theme=dark&perline=7" alt="Tech Stack Badges" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,php,laravel,py,mysql,postgres,supabase,sqlite,vercel,git,github,vscode,figma,postman&theme=dark&perline=8" alt="Tech Stack & Ecosystem" />
   </a>
 </p>
 
