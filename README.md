@@ -8,7 +8,6 @@
   <h1>Rence Pacifico Samontanez</h1>
   <h3>SoloX</h3>
 
-    <br /><br />
   <!-- Profile Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=RenceSamontanez&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
