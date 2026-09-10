@@ -73,15 +73,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 158.1 kB Used in GitHub's Storage 
  > 
-> 🏆 139 Contributions in the Year 2026
+> 🏆 140 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,21 +92,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                45 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌆 Daytime                58 commits          ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌙 Night                  87 commits          ██████████░░░░░░░░░░░░░░░   41.43 % 
+🌞 Morning                46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+🌆 Daytime                58 commits          ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+🌙 Night                  87 commits          ██████████░░░░░░░░░░░░░░░   41.23 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Thursday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Friday                   86 commits          ██████████░░░░░░░░░░░░░░░   40.95 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Sunday                   54 commits          ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Monday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Thursday                 24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Friday                   86 commits          ██████████░░░░░░░░░░░░░░░   40.76 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Sunday                   54 commits          ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 ```
 
 
@@ -116,45 +116,45 @@ Sunday                   54 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    2 hrs               ███████████░░░░░░░░░░░░░░   45.28 % 
-TypeScript               2 hrs               ███████████░░░░░░░░░░░░░░   45.25 % 
-HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               2 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.16 % 
+Other                    2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.84 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Agent                    3 hrs 16 mins       ███████████████████░░░░░░   74.17 % 
-Cursor                   1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Agent                    3 hrs 28 mins       ██████████████████░░░░░░░   73.91 % 
+Cursor                   1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
 
 🐱‍💻 Projects: 
-dedication               1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-resort                   1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-rence-portfolio          52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-lumiere-resort           50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-romantic-dedication      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+dedication               1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+resort                   1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+rence-portfolio          52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+lumiere-resort           50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+romantic-dedication      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 💻 Operating System: 
-Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (84.29%)
+⏱ AI Coding Time: 3 hrs 58 mins (84.45%)
 
-✍️ 0 lines written by AI, 464 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 870 lines written by hand (0.0% AI-written)
 
-🔤 114,879 Input Tokens, 114,879 Output Tokens
+🔤 125,054 Input Tokens, 125,054 Output Tokens
 
-💵 $2.07 Estimated AI Cost This Week
+💵 $2.25 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 90 AI Prompts
+🧠 6 AI Sessions, 105 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,107 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
+📚 Verbose Prompter — average 4,765 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +175,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 03:50:22 UTC
+ Last Updated on 10/09/2026 03:48:57 UTC
 <!--END_SECTION:waka-->
 
 
