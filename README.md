@@ -116,45 +116,45 @@ Sunday                   55 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.54 % 
-Other                    2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.70 % 
-HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.81 % 
+TypeScript               2 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.78 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Agent                    3 hrs 31 mins       ██████████████████░░░░░░░   72.91 % 
-Cursor                   1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Agent                    3 hrs 31 mins       ████████████████████░░░░░   78.24 % 
+Cursor                   58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
 
 🐱‍💻 Projects: 
-dedication               1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-resort                   1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-rence-portfolio          52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-lumiere-resort           50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-my-love-diary            20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+dedication               1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+resort                   1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+lumiere-resort           50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+rence-portfolio          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+my-love-diary            20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 6 mins (84.84%)
+⏱ AI Coding Time: 4 hrs 6 mins (91.04%)
 
-✍️ 0 lines written by AI, 912 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 906 lines written by hand (0.0% AI-written)
 
-🔤 145,980 Input Tokens, 145,980 Output Tokens
+🔤 145,897 Input Tokens, 145,897 Output Tokens
 
 💵 $2.63 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 115 AI Prompts
+🧠 7 AI Sessions, 114 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,079 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📚 Verbose Prompter — average 5,121 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +175,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 03:57:15 UTC
+ Last Updated on 14/09/2026 04:05:02 UTC
 <!--END_SECTION:waka-->
 
 
