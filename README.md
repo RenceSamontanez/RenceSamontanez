@@ -116,45 +116,41 @@ Sunday                   55 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    2 hrs 3 mins        █████████████░░░░░░░░░░░░   52.16 % 
-TypeScript               1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.13 % 
-HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               20 mins             █████████████████████░░░░   84.07 % 
+Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Agent                    3 hrs 1 min         ███████████████████░░░░░░   76.26 % 
-Cursor                   56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Agent                    14 mins             ███████████████░░░░░░░░░░   59.35 % 
+Cursor                   9 mins              ██████████░░░░░░░░░░░░░░░   40.65 % 
 
 🐱‍💻 Projects: 
-dedication               1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-resort                   1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-lumiere-resort           50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-my-love-diary            20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-romantic-dedication      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+my-love-diary            20 mins             █████████████████████░░░░   85.26 % 
+Diary                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 
 💻 Operating System: 
-Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 33 mins (90.0%)
+⏱ AI Coding Time: 22 mins (90.85%)
 
-✍️ 0 lines written by AI, 906 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 448 lines written by hand (0.0% AI-written)
 
-🔤 130,258 Input Tokens, 130,258 Output Tokens
+🔤 31,101 Input Tokens, 31,101 Output Tokens
 
-💵 $2.34 Estimated AI Cost This Week
+💵 $0.65 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 103 AI Prompts
+🧠 4 AI Sessions, 25 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,060 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
+📚 Verbose Prompter — average 4,978 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +171,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 04:04:29 UTC
+ Last Updated on 16/09/2026 04:00:46 UTC
 <!--END_SECTION:waka-->
 
 
