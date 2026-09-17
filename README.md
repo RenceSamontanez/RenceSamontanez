@@ -116,41 +116,38 @@ Sunday                   55 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               20 mins             █████████████████████░░░░   84.07 % 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Agent                    14 mins             ███████████████░░░░░░░░░░   59.35 % 
-Cursor                   9 mins              ██████████░░░░░░░░░░░░░░░   40.65 % 
+Cursor                   4 mins              ████████████████░░░░░░░░░   64.19 % 
+Agent                    2 mins              █████████░░░░░░░░░░░░░░░░   35.81 % 
 
 🐱‍💻 Projects: 
-my-love-diary            20 mins             █████████████████████░░░░   85.26 % 
-Diary                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+my-love-diary            7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (90.85%)
+⏱ AI Coding Time: 7 mins (99.64%)
 
-✍️ 0 lines written by AI, 448 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 42 lines written by hand (0.0% AI-written)
 
-🔤 31,101 Input Tokens, 31,101 Output Tokens
+🔤 20,926 Input Tokens, 20,926 Output Tokens
 
-💵 $0.65 Estimated AI Cost This Week
+💵 $0.47 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 25 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,978 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 8,372 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -171,7 +168,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 04:00:46 UTC
+ Last Updated on 17/09/2026 04:07:48 UTC
 <!--END_SECTION:waka-->
 
 
