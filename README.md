@@ -73,15 +73,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 158.2 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2026
+> 🏆 146 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,21 +92,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                50 commits          ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-🌆 Daytime                59 commits          ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-🌙 Night                  87 commits          ██████████░░░░░░░░░░░░░░░   40.28 % 
+🌞 Morning                51 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+🌆 Daytime                59 commits          ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+🌙 Night                  87 commits          ██████████░░░░░░░░░░░░░░░   40.09 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Friday                   88 commits          ██████████░░░░░░░░░░░░░░░   40.74 % 
-Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Sunday                   55 commits          ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Monday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Friday                   88 commits          ██████████░░░░░░░░░░░░░░░   40.55 % 
+Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Sunday                   55 commits          ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
 ```
 
 
@@ -116,39 +116,43 @@ Sunday                   55 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               24 mins             █████████████████████████   100.00 % 
+TypeScript               41 mins             ███████████████░░░░░░░░░░   60.60 % 
+Other                    16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 
 🔥 Editors: 
-Cursor                   23 mins             ████████████████████████░   97.97 % 
-Agent                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Agent                    34 mins             █████████████░░░░░░░░░░░░   50.74 % 
+Cursor                   33 mins             ████████████░░░░░░░░░░░░░   49.26 % 
 
 🐱‍💻 Projects: 
-rence-portfolio          24 mins             █████████████████████████   100.00 % 
+Diary                    26 mins             ██████████░░░░░░░░░░░░░░░   39.42 % 
+rence-portfolio          24 mins             █████████░░░░░░░░░░░░░░░░   36.07 % 
+Unknown Project          16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (100.0%)
+⏱ AI Coding Time: 1 hr 2 mins (92.03%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 43 lines written by hand (0.0% AI-written)
 
-🔤 500 Input Tokens, 500 Output Tokens
+🔤 3,216 Input Tokens, 3,216 Output Tokens
 
-💵 $0.01 Estimated AI Cost This Week
+💵 $0.06 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 5 AI Sessions, 16 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 402 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 806 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in CSS** 
@@ -168,7 +172,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 03:53:29 UTC
+ Last Updated on 19/09/2026 03:50:27 UTC
 <!--END_SECTION:waka-->
 
 
