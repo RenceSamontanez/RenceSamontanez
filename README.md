@@ -73,9 +73,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,41 +116,42 @@ Sunday                   56 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               41 mins             ███████████████░░░░░░░░░░   60.46 % 
-Other                    16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+TypeScript               55 mins             █████████████████░░░░░░░░   67.38 % 
+Other                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Bash                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 
 🔥 Editors: 
-Agent                    34 mins             █████████████░░░░░░░░░░░░   50.85 % 
-Cursor                   33 mins             ████████████░░░░░░░░░░░░░   49.15 % 
+Agent                    48 mins             ███████████████░░░░░░░░░░   59.45 % 
+Cursor                   33 mins             ██████████░░░░░░░░░░░░░░░   40.55 % 
 
 🐱‍💻 Projects: 
-Diary                    26 mins             ██████████░░░░░░░░░░░░░░░   39.56 % 
-rence-portfolio          24 mins             █████████░░░░░░░░░░░░░░░░   35.99 % 
-Unknown Project          16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Diary                    26 mins             ████████░░░░░░░░░░░░░░░░░   32.64 % 
+rence-portfolio          24 mins             ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Unknown Project          16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+SoloXTask                14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 2 mins (92.05%)
+⏱ AI Coding Time: 1 hr 16 mins (93.44%)
 
 ✍️ 0 lines written by AI, 43 lines written by hand (0.0% AI-written)
 
-🔤 3,578 Input Tokens, 3,578 Output Tokens
+🔤 5,061 Input Tokens, 5,061 Output Tokens
 
-💵 $0.06 Estimated AI Cost This Week
+💵 $0.09 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 8 AI Sessions, 32 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 532 characters per prompt
+📄 Detailed Prompter — average 635 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -172,7 +173,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 04:04:31 UTC
+ Last Updated on 22/09/2026 04:01:32 UTC
 <!--END_SECTION:waka-->
 
 
