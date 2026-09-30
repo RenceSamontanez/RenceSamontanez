@@ -116,42 +116,39 @@ Sunday                   56 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               2 hrs 25 mins       ████████████████████░░░░░   79.37 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Java Properties          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               33 mins             █████████████████████████   98.64 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Cursor                   1 hr 58 mins        ████████████████░░░░░░░░░   64.62 % 
-Agent                    1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.38 % 
+Agent                    17 mins             █████████████░░░░░░░░░░░░   50.67 % 
+Cursor                   16 mins             ████████████░░░░░░░░░░░░░   49.33 % 
 
 🐱‍💻 Projects: 
-SoloXTask                3 hrs 3 mins        █████████████████████████   100.00 % 
+SoloXTask                34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (50.57%)
+⏱ AI Coding Time: 24 mins (71.51%)
 
-✍️ 0 lines written by AI, 2,220 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 427 lines written by hand (0.0% AI-written)
 
-🔤 49,895 Input Tokens, 49,895 Output Tokens
+🔤 4,315 Input Tokens, 4,315 Output Tokens
 
-💵 $0.90 Estimated AI Cost This Week
+💵 $0.08 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 55 AI Prompts
+🧠 2 AI Sessions, 24 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,631 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 722 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -172,7 +169,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RenceSamontanez/RenceSamontanez/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 04:58:00 UTC
+ Last Updated on 30/09/2026 04:44:53 UTC
 <!--END_SECTION:waka-->
 
 
